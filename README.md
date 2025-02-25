@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Sajid Ahmad Shaik</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=sajidahmad41&label=Profile%20views&color=0e75b6&style=flat" alt="sajidahmad41" /> </p>
+<p align="left"> <img src="https://png.pngtree.com/background/20230528/original/pngtree-an-animated-face-of-a-boy-with-headphones-picture-image_2781319.jpg" alt="sajidahmad41" /> </p>
 
 <p align="left"> <a href="https://twitter.com/sajid_ahmad_41" target="blank"><img src="https://img.shields.io/twitter/follow/sajid_ahmad_41?logo=twitter&style=for-the-badge" alt="sajid_ahmad_41" /></a> </p>
 
