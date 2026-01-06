@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Sajid Ahmad Shaik</h1>
-<h3 align="center">A passionate frontend developer from India</h3>
+<h3 align="center">A passionate developer from India</h3>
 
 <p align="left"> <img src="https://png.pngtree.com/background/20230528/original/pngtree-an-animated-face-of-a-boy-with-headphones-picture-image_2781319.jpg" height="300" width="500" alt="sajidahmad41" /> </p>
 
